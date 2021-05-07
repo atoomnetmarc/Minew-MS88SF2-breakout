@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Connector_USB-fixed)(type KiCad)(uri ${ATOOMNETKICAD}/footprints/Connector_USB-fixed.pretty)(options "")(descr ""))
+  (lib (name RF_Module-extra)(type KiCad)(uri ${ATOOMNETKICAD}/footprints/RF_Module-extra.pretty)(options "")(descr ""))
+  (lib (name LED_SMD-extra)(type KiCad)(uri ${ATOOMNETKICAD}/footprints/LED_SMD-extra.pretty)(options "")(descr ""))
+)
